@@ -8,7 +8,7 @@ environment:
 
 dependencies:
   dio:
-    path: dio
+    path: dio_example
   dio_http2_adapter:
     path: plugins/http2_adapter
   dio_cookie_manager:
